@@ -1,0 +1,79 @@
+<div class="page-width page-content">
+    <div class="about-outer">
+        <div class="text-center about-header">
+            About Us
+        </div>
+        <div class="about_container">
+            <p class="about-title text-center">
+                {{ settings.about_header }}
+            </p> 
+            <p class="about-content text-center">
+                {{ settings.about_content }}
+            </p> 
+            <div>
+                <div class="about-image-container">
+                    <div class="about-image-inner">
+                        <img src="{{ settings.about_image_1 | img_url: '1200x630'}}">
+                    </div>
+                    <div class="about-image-inner">
+                        <img src="{{ settings.about_image_2 | img_url: '1200x630'}}">
+                    </div>
+                </div>
+                <div class="about-image-container">
+                    <div class="about-image-inner">
+                        <img src="{{ settings.about_image_3 | img_url: '1200x630'}}">
+                    </div>
+                    <div class="about-image-inner">
+                        <img src="{{ settings.about_image_4 | img_url: '1200x630'}}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .about-header {
+        font-size: 2em; 
+        color: #67676B;
+        font-weight: 400;
+        line-height: 30px;
+    }
+    .about-title {
+        color: #15161B;
+        font-size: 1.5em;
+        font-weight: 600;
+        line-height: 2rem;
+    }
+    .about-content: {
+        font-size: 1em;
+        color: #7A7A7A;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .about_outer {
+        padding-top: 10px;
+    }
+    .image-container > * {
+        max-width: unset !important;
+    }
+    .about_container {
+        font-family: "Poppins", Barlow;
+        padding: 10%;
+        padding-top: 30px;
+    }
+    .about-image-container {
+        display: flex;
+    }
+    .about-image-inner {
+        max-width: 500px;
+        padding: 10px;
+    }
+    .about-image-inner > img {
+        object-fit: cover;
+    }
+    @media only screen and (max-width: 600px) {
+    .about-image-container {
+        display: block;
+    }
+}
+</style>

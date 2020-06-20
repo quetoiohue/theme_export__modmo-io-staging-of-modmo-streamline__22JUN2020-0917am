@@ -1,0 +1,1766 @@
+{
+  "current": {
+    "color_body_bg": "#fff",
+    "color_body_text": "#000000",
+    "color_button": "#069bff",
+    "color_button_text": "#ffffff",
+    "color_sale_price": "#000000",
+    "color_sale_tag": "#990000",
+    "color_cart_dot": "#f75d44",
+    "color_cart_dot_text": "#ffffff",
+    "color_alt_bg": "#fff",
+    "color_alt_text": "#000000",
+    "color_announcement": "#000000",
+    "color_announcement_text": "#069bff",
+    "color_newsletter": "#000",
+    "color_newsletter_text": "#fff",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_text": "#069bff",
+    "color_image_text": "#069bff",
+    "color_image_overlay": "rgba(0,0,0,0)",
+    "color_image_overlay_opacity": 0,
+    "color_image_overlay_text_shadow": 14,
+    "color_small_image_bg": "#ffffff",
+    "color_large_image_bg": "rgba(0,0,0,0)",
+    "type_header_font_family": "poppins_n4",
+    "type_header_capitalize": false,
+    "type_header_spacing": -25,
+    "type_header_base_size": 46,
+    "type_header_line_height": 1,
+    "type_base_font_family": "poppins_n4",
+    "type_product_capitalize": false,
+    "type_base_spacing": 25,
+    "type_base_size": 20,
+    "type_base_line_height": 1.4,
+    "button_type_style": "normal",
+    "button_style": "round",
+    "type_navigation_size": 28,
+    "animate_images": true,
+    "animate_page_transitions": true,
+    "logo_loader_image": "",
+    "desktop_loader_width": 100,
+    "mobile_loader_width": 100,
+    "product_hover_details": false,
+    "product_hover_image": true,
+    "product_image_scatter": false,
+    "product_grid_image_size": "square",
+    "vendor_enable": false,
+    "product_save_amount": false,
+    "product_save_type": "dollar",
+    "product_color_swatches": true,
+    "collection_color_swatches": false,
+    "additional_content_style": "tab",
+    "product_content_1": "",
+    "product_content_2": "",
+    "product_content_3": "",
+    "trust_image": "",
+    "product_contact": false,
+    "product_contact_title": "Ask a question",
+    "product_contact_show_phone": false,
+    "enable_product_reviews": false,
+    "enable_product_reviews_collection": true,
+    "quick_shop_enable": false,
+    "quick_shop_style": "full",
+    "product_image_size": "large",
+    "product_image_type": "stacked",
+    "product_zoom_enable": true,
+    "product_shipping_callout": "",
+    "sku_enable": false,
+    "inventory_enable": false,
+    "inventory_threshold": 10,
+    "inventory_transfers_enable": false,
+    "social_enable": true,
+    "cart_type": "sticky",
+    "cart_icon": "cart",
+    "cart_additional_buttons": true,
+    "cart_notes_enable": true,
+    "cart_terms_conditions_enable": true,
+    "cart_terms_conditions_link": "shopify://pages/terms-and-conditions",
+    "social_instagram_link": "https://instagram.com/modmo.io",
+    "social_facebook_link": "https://www.facebook.com/modmo.io",
+    "social_twitter_link": "",
+    "social_pinterest_link": "",
+    "social_snapchat_link": "",
+    "social_tumblr_link": "",
+    "social_linkedin_link": "",
+    "social_youtube_link": "https://www.youtube.com/channel/UCyVKdHqzxD-Ns4JswLHkTuA/",
+    "social_vimeo_link": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "homepage_social_image": "",
+    "favicon": "shopify://shop_images/Untitled_design_2.png",
+    "search_type": "product,article,page",
+    "about_image_1": "shopify://shop_images/Arkonik-Reef-Land-Rover-Defender-D90-restomod-2_35272c24-840a-41b0-9c7a-fe48ed5a9db5.png",
+    "about_image_2": "",
+    "about_image_3": "shopify://shop_images/DSC1597.png",
+    "about_image_4": "shopify://shop_images/trans_final_ecf81219-d1ba-46fd-94a6-0d3e6852ce80.png",
+    "about_header": "",
+    "about_content": "Modmo was founded in 2018 to disrupt the status quo of urban transport. Our name, a portmanteau of 'Modular' and  'Mobility', outlines our principles: To create user-centric, zero-emission personal transport vehicles that adapt to your daily needs. The car is no longer suited to towns and cities. Yet the nimble, carbon free bicycle is hindered by utility, theft risk and user exertion. Every Modmo design focuses on solving these issues while improving congestion, pollution and human happiness. Where there is a problem, we innovate. That’s how we created our flagship e-bike SAIGON.  When founder Jack O’Sullivan was searching for the right people to help turn a concept into a reality, he travelled through Asia and eventually settled in Ho Chi Minh City, Vietnam -- a city still warmly known as Saigon.  Here he found a team of top class developers, engineers and manufacturers and they set about revolutionizing the humble bike.  Together, they brought the bike to life and named it after its birthplace.  Now, after almost three years of development, we’re happy to say that you can have that bike too.",
+    "flits_tracking_active_color": "#069bff",
+    "flits_tracking_completed_color": "#069bff",
+    "flits_tracking_remain_color": "#dddddd",
+    "flits_outer_circle_background_color": "#ebf0f2",
+    "flits_check_mark_color": "#ebf0f2",
+    "flits_primary_button_color": "#069bff",
+    "flits_primary_button_background_color": "#ebeff2",
+    "flits_default_button_color": "#5fbeaa",
+    "flits_default_button_background_color": "#ebeff2",
+    "flits_danger_button_color": "#d9534f",
+    "flits_danger_button_background_color": "#ebeff2",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#111111",
+    "checkout_button_color": "#069bff",
+    "checkout_error_color": "#ff6d6d",
+    "about_image": "shopify://shop_images/team-standing.png",
+    "animate_page_transition_style": "page-logo",
+    "checkout_banner_background_color": "#fff",
+    "checkout_call_to_action_color": "#a26b25",
+    "checkout_use_header_image": false,
+    "product_video_style": "muted",
+    "reviews_layout": "full",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "header_style": "bar",
+          "main_menu_alignment": "right",
+          "sticky_index": true,
+          "sticky_collection": false,
+          "header_search_enable": true,
+          "logo": "shopify://shop_images/MODMO_logo_transp_60dcc0e0-bb08-4a81-8345-9332a31c4ec3.png",
+          "logo-inverted": "",
+          "desktop_logo_width": 200,
+          "mobile_logo_width": 140,
+          "logo_hide_mobile": true,
+          "main_menu_link_list": "main-menu",
+          "show_announcement": false,
+          "show_announcement_home_only": false,
+          "announcement_text": "",
+          "announcement_link": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "show_newsletter": false,
+          "newsletter_title": "Join the club",
+          "newsletter_richtext": "",
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_currency_flags": true,
+          "show_social_icons": true,
+          "menu": "footer-menu",
+          "show_payment_icons": false,
+          "show_copyright": true,
+          "copyright_text": "JMJ BICYCLE DISTRIBUTION LTD"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "per_row_desktop": 3,
+          "per_row_mobile": "1",
+          "description_bottom": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_image_size": "large",
+          "product_image_type": "stacked",
+          "product_zoom_enable": true,
+          "enable_video_looping": true,
+          "product_video_style": "muted",
+          "enable_payment_button": false,
+          "product_shipping_callout": "",
+          "variant_type": "button",
+          "variant_labels_enable": true,
+          "sku_enable": false,
+          "inventory_enable": false,
+          "inventory_threshold": 10,
+          "inventory_transfers_enable": false,
+          "quantity_enable": false,
+          "social_enable": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_image": true,
+          "blog_show_tags": true,
+          "blog_show_date": true,
+          "blog_show_comments": true,
+          "blog_show_author": false,
+          "social_sharing_blog": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "post_limit": 9,
+          "blog_show_tag_filter": true,
+          "blog_show_rss": false,
+          "blog_show_tags": true,
+          "blog_show_date": true,
+          "blog_show_comments": true,
+          "blog_show_author": false,
+          "blog_show_excerpt": false,
+          "blog_image_size": "wide"
+        }
+      },
+      "product-sections": { "type": "product-sections", "settings": {} },
+      "page-sections-template": {
+        "type": "page-sections-template",
+        "blocks": {
+          "1559681273277": {
+            "type": "image-hero",
+            "settings": {
+              "title": "Two line\ntitle image",
+              "title_size": 80,
+              "subheading": "And an optional subheading",
+              "link": "",
+              "link_text": "Optional button",
+              "text_align": "vertical-center horizontal-center",
+              "image": "",
+              "desktop_size": 0,
+              "image_mobile": "",
+              "mobile_size": 0,
+              "focal_point": "center center"
+            }
+          },
+          "1558643031646": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "",
+              "image2": "",
+              "image_width": 450,
+              "subtitle": "",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "button_label": "",
+              "button_link": "",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          },
+          "1558643392013": {
+            "type": "map",
+            "settings": {
+              "map_title": "Our retail store",
+              "address": "<p>301 Front St W<br>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm</p>",
+              "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+              "api_key": "",
+              "background_image": "",
+              "background_image_position": "center center"
+            }
+          },
+          "1558643431127": {
+            "type": "collection-slider",
+            "settings": {
+              "title": "Featured collection",
+              "description": "",
+              "collection": "",
+              "per_row": "large",
+              "alt": false
+            }
+          },
+          "1558643225272": {
+            "type": "hero-video",
+            "settings": {
+              "title": "Keep it short\nand sweet.",
+              "title_size": 60,
+              "subheading": "Explain your brand in more depth on your product pages",
+              "link_text": "",
+              "link": "",
+              "text_align": "vertical-center horizontal-center",
+              "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+              "section_height": "750px",
+              "mobile_height": "100vh"
+            }
+          }
+        },
+        "block_order": [
+          "1559681273277",
+          "1558643031646",
+          "1558643392013",
+          "1558643431127",
+          "1558643225272"
+        ],
+        "settings": { "page_title_enable": false, "page_content_enable": true }
+      },
+      "newsletter-popup": {
+        "type": "newsletter-popup",
+        "settings": {
+          "mode": "disabled",
+          "popup_seconds": 5,
+          "popup_days": 30,
+          "popup_title": "Sign up and save",
+          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.</p>",
+          "enable_newsletter": true,
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "title_enable": true,
+          "display_type": "all",
+          "sort": "alphabetical"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": false,
+          "product_recommendations_heading": "You may also like",
+          "per_row": "small"
+        }
+      },
+      "social": {
+        "type": "social",
+        "settings": {
+          "enable_home": false,
+          "enable_product": false,
+          "enable_collection": false,
+          "title": "On social",
+          "description": "<p>Send us yours <a href=\"https://www.instagram.com/modmo.io/\" title=\"https://www.instagram.com/modmo.io/\">@modmo.io</a></p>"
+        }
+      },
+      "1588490397095": {
+        "type": "logo-list",
+        "blocks": {
+          "1588490397095-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/ebiketips-modmo-saigon-review.png",
+              "link": "https://ebiketips.road.cc/content/news/meet-saigon-the-first-ever-modular-e-bike-with-200km-range-2351"
+            }
+          },
+          "1588490397095-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/gp-masthead-logo.png",
+              "link": "https://gearpatrol.com/2020/03/20/modmo-saigon-e-bike/"
+            }
+          },
+          "1588490397095-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/bikebiz_logo.png",
+              "link": "https://www.bikebiz.com/modmo-launches-first-ever-fully-modular-bike/"
+            }
+          },
+          "1588490397095-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/t3n-logo-press-2018_red_RGB_rechts.png",
+              "link": "https://t3n.de/news/konkurrenz-fuers-cowboy-pedelec-1268146/"
+            }
+          },
+          "1588490750401": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/vietcetera_logo.png",
+              "link": "https://vietcetera.com/en/vietnam-innovator-modmos-saigon-e-bike-makes-urban-commute-a-breeze/"
+            }
+          }
+        },
+        "block_order": [
+          "1588490397095-0",
+          "1588490397095-1",
+          "1588490397095-2",
+          "1588490397095-3",
+          "1588490750401"
+        ],
+        "settings": { "title": "Featured in", "logo_opacity": 100, "alt": true }
+      },
+      "1588491200134": {
+        "type": "hero-video",
+        "settings": {
+          "title": "",
+          "title_size": 80,
+          "subheading": "",
+          "link_text": "",
+          "link": "",
+          "text_align": "vertical-center horizontal-center",
+          "video_url": "https://youtu.be/b5ZqUQDBDtI",
+          "section_height": "750px",
+          "mobile_height": "auto"
+        }
+      },
+      "1588491448788": {
+        "type": "blog-posts",
+        "settings": {
+          "title": "News",
+          "blog": "news",
+          "post_limit": 3,
+          "blog_show_tags": false,
+          "blog_show_date": false,
+          "blog_show_comments": false,
+          "blog_show_author": false,
+          "blog_show_excerpt": false,
+          "blog_image_size": "landscape",
+          "view_all": false,
+          "alt": true
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "settings": {
+          "collection_image_enable": false,
+          "description_enable": false
+        }
+      },
+      "collection-filters": {
+        "type": "collection-filters",
+        "settings": {
+          "filter_type": "groups",
+          "tags_combine": false,
+          "collection_sort_enable": false
+        }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "settings": {
+          "contact_phone": "+84 979126861",
+          "page_title_enable": false,
+          "page_content_enable": true
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "page-faq-template-0": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Purchasing Information",
+              "text": "<p>Everything you need to know to purchase&nbsp;your new MODMO Bike.</p>",
+              "align_text": "left"
+            }
+          },
+          "page-faq-template-1": {
+            "type": "question",
+            "settings": {
+              "title": "Where can I buy a MODMO?",
+              "text": "<p>You can buy your bike exclusively through our website.&nbsp;</p>"
+            }
+          },
+          "page-faq-template-2": {
+            "type": "question",
+            "settings": {
+              "title": "When will I receive my bike?",
+              "text": "<p>1st Batch (100 Bikes)&nbsp; -&nbsp; September 2020</p>\n<p>2nd Batch (1,000 Bikes)&nbsp; -&nbsp; October 2020</p>\n<p>3rd Batch (1 Million Bikes)&nbsp; - 😁</p>"
+            }
+          },
+          "1589449380664": {
+            "type": "question",
+            "settings": {
+              "title": "What are the pre-order & payment options?",
+              "text": "<p>You have four options:</p>\n<p><strong>1)</strong> <strong>Pre-Order</strong> (Offer ends May 31, 2020)<strong><br></strong>Pay &euro;99 today to reserve your SAIGON, with the remainder due in June 2020.&nbsp;</p>\n<p><strong>2)</strong> <strong>50% Now, 50% Later<br></strong>Pay &euro;999 now, with the remainder due in June 2020. Get &euro;99 Free Store Credit, Limited Edition Frame Graphics and one MODMO t-shirt.</p>\n<p><strong>3)&nbsp;Full Payment<br></strong>Pay &euro;1999 now. Simple really.&nbsp;<strong>Get &euro;199 Free Store Credit</strong>, Limited Edition Frame Graphics and three MODMO t-shirts.</p>\n<p><strong>4) Monthly Payments</strong><br>Four equal monthly payments of &euro;500. After your final payment, the bike will be ready to ship.&nbsp;</p>"
+            }
+          },
+          "1589449741251": {
+            "type": "question",
+            "settings": {
+              "title": "When do I need to complete my payment?",
+              "text": "<p>By June 2020. We&rsquo;ll also be in touch to finalize your bike configuration and payment.</p>"
+            }
+          },
+          "1589449791462": {
+            "type": "question",
+            "settings": {
+              "title": "Cancellations & Refunds?",
+              "text": "<p>Cancel at any time for free prior to shipping, and receive a 100% refund.&nbsp;</p>"
+            }
+          },
+          "1589449818789": {
+            "type": "question",
+            "settings": {
+              "title": "Return Policy?",
+              "text": "<p>If, for any reason, you&rsquo;re not completely in love with your bike, return it for a full refund within 15 days of receipt.</p>"
+            }
+          },
+          "1589461206450": {
+            "type": "question",
+            "settings": {
+              "title": "How can I change my order?",
+              "text": "<p>Email us at:&nbsp;<a href=\"mailto:hello@modmo.io\" title=\"mailto:hello@modmo.io\">hello@modmo.io</a>&nbsp;and we&acute;ll take care of you.</p>"
+            }
+          },
+          "1589451935463": {
+            "type": "question",
+            "settings": {
+              "title": "How do I assemble my bike?",
+              "text": "<p>Straighten the handlebars, mount the pedals, and enjoy your first ride!&nbsp;</p>\n<p>Every bike is fully assembled and taken for a test-ride before leaving our factory, so it should be perfect.&nbsp;</p>"
+            }
+          },
+          "page-faq-template-3": {
+            "type": "rich-text",
+            "settings": {
+              "title": "SAIGON Dimensions",
+              "text": "<p>Not sure if SAIGON will fit? We made three sizes to suit almost any size.&nbsp;</p>",
+              "align_text": "left"
+            }
+          },
+          "page-faq-template-4": {
+            "type": "question",
+            "settings": {
+              "title": "Which size is right for me?",
+              "text": "<p>SAIGON comes in three sizes.&nbsp;</p>\n<p>Small:&nbsp; Designed for people between 140cm to 165cm (4.5' to 5.5')<br>Medium: Designed for people between 165cm to 190cm (5.5' to 6.2')<br>Large: Designed for people between 190cm to 225cm (6.2' to 7.4')</p>"
+            }
+          },
+          "1589451842555": {
+            "type": "question",
+            "settings": {
+              "title": "What does SAIGON weigh?",
+              "text": "<p>We're expecting 17kg (37.4lbs). Earlier prototypes weighed just under 15kg, but we&rsquo;ve since upgraded to a better but slightly heavier battery.</p>"
+            }
+          },
+          "1589478078133": {
+            "type": "question",
+            "settings": {
+              "title": "What are the tire dimensions?",
+              "text": "<p>650x40c.&nbsp;</p>"
+            }
+          },
+          "1589452089413": {
+            "type": "rich-text",
+            "settings": {
+              "title": "SAIGON Battery",
+              "text": "<p>How far can SAIGON take me without charging?&nbsp;</p>",
+              "align_text": "left"
+            }
+          },
+          "1589452132812": {
+            "type": "question",
+            "settings": {
+              "title": "Is the battery range really 200km?",
+              "text": "<p>Our '200km range battery' claim is based on real-life testing... and yes, it really is<i> up to</i> 200km.</p>\n<p></p>\n<p>Battery range will be heavily based on you and the way you ride.&nbsp;</p>\n<p></p>\n<p>Things to consider include: motor power level, rider weight, terrain, outdoor temperature and, of course, battery health.</p>\n<p></p>\n<p>Our 200km range was based on:</p>\n<p>250W motor, power level 2, 60kg rider, 30C temperature and a battery with approximately 20 charge cycles.&nbsp;</p>"
+            }
+          },
+          "1589452207524": {
+            "type": "question",
+            "settings": {
+              "title": "What happens if the battery runs out?",
+              "text": "<p>Nothing at all - you&rsquo;ve still got yourself a great bike. If the battery runs out, or you turn the pedal assist off, you can still ride it as a normal bicycle.</p>"
+            }
+          },
+          "1589452342700": {
+            "type": "question",
+            "settings": {
+              "title": "How to remove the battery?",
+              "text": "<p>Easy. Set the bike upside down. Locate the lock in the base of the frame. Open the lock.&nbsp;Slide the battery out. Done.</p>"
+            }
+          },
+          "1589452383896": {
+            "type": "question",
+            "settings": {
+              "title": "Is the battery secure, and can I lock it?",
+              "text": "<p>Absolutely. Only your key can access your battery terminal.</p>"
+            }
+          },
+          "1589452398095": {
+            "type": "rich-text",
+            "settings": {
+              "title": "SAIGON Motor",
+              "text": "<p>From A to B, no sweat.&nbsp;</p>",
+              "align_text": "left"
+            }
+          },
+          "1589452427145": {
+            "type": "question",
+            "settings": {
+              "title": "What type of motor is inside SAIGON?",
+              "text": "<p>SAIGON has a super-reliable and quiet front-hub motor, co-developed by MODMO and our manufacturing partner Aikema.</p>"
+            }
+          },
+          "1589470907176": {
+            "type": "question",
+            "settings": {
+              "title": "Why a front motor?",
+              "text": "<p>Many people ask us why a front motor instead of a rear motor.</p>\n<p></p>\n<p>After factoring in everything, it was clear a front motor was best for SAIGON, for four key&nbsp;reasons:</p>\n<p></p>\n<p>1) We could use a belt drive and still&nbsp;offer 11 gears (optional upgrade).<br>2) It allowed us to keep all cables hidden inside the frame.&nbsp;<br>3)&nbsp;We fit a 30% larger battery.<br>4) It made the battery much easier to remove.</p>"
+            }
+          },
+          "1589452472535": {
+            "type": "question",
+            "settings": {
+              "title": "How much power is in the motor?",
+              "text": "<p>The Aikema front-hub motor is 350W (EU) / 500W (US). Both EU and US motors generate 55NM of torque. Due to EU road regulations, the motor we distribute to the EU is artificially limited to 250W, or 25km/h. However, SAIGON features a special MOD-Mode for cycling off-road or on private property which will increase the top speed and power.</p>"
+            }
+          },
+          "1589452567797": {
+            "type": "question",
+            "settings": {
+              "title": "How does the MOD-Mode work?",
+              "text": "<p>You can engage&nbsp;MOD-Mode via the&nbsp;MODMO&nbsp;Mobile App (iOS &amp;&nbsp;Android). This allows you to enjoy all 350W (EU) / 500W (US), with a top speed of 40km/h (EU) or 35mph (US).</p>\n<p></p>"
+            }
+          },
+          "1589470388044": {
+            "type": "question",
+            "settings": {
+              "title": "How loud is the motor?",
+              "text": "<p>50dB. It's hard to express how quiet it really is, but we promise you won't think it's (too) loud.&nbsp;</p>"
+            }
+          },
+          "1589454775360": {
+            "type": "rich-text",
+            "settings": {
+              "title": "SAIGON Gear Hub",
+              "text": "<p>SAIGON comes as single speed, but we offer an optional <strong>Shimano Alfine 11-speed internally geared hub</strong>&nbsp;as an additional mod.</p>",
+              "align_text": "left"
+            }
+          },
+          "1589454876002": {
+            "type": "question",
+            "settings": {
+              "title": "Can I add a Gear Hub later?",
+              "text": "<p>Yes. Anytime before shipping.</p>"
+            }
+          },
+          "1589454895142": {
+            "type": "question",
+            "settings": {
+              "title": "Will the Gear Hub add weight to my bike?",
+              "text": "<p>Yes, roughly 1kg.</p>"
+            }
+          },
+          "1589477625578": {
+            "type": "question",
+            "settings": {
+              "title": "How much will the Gear Hub cost?",
+              "text": "<p>&euro;200 for the manual shifter or &euro;400 for the Di2 electronic shifter.</p>"
+            }
+          },
+          "1589457778595": {
+            "type": "rich-text",
+            "settings": {
+              "title": "MODs - Modular Mobility",
+              "text": "<p>We have loads of MODs in the making.</p>\n<p></p>\n<p>Current works in progress include: two Front Baskets, a Child Seat, a Food Delivery Box, a Pannier Rack and a Waterproof Pannier Bag.</p>\n<p></p>\n<p>There will be many more coming, so keep sending in your suggestions.&nbsp;</p>",
+              "align_text": "left"
+            }
+          },
+          "1589461120498": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Theft Protection",
+              "text": "<p>How MODMO helps you enjoy a long-term relationship with your SAIGON.</p>",
+              "align_text": "left"
+            }
+          },
+          "1589461350023": {
+            "type": "question",
+            "settings": {
+              "title": "How do I lock the bike?",
+              "text": "<p>Apart from physically locking the bike, we offer a 'lock' feature via our app.</p>\n<p></p>\n<p>Tap 'lock' and our software will set up a five-metre digital perimeter around your bike. If your bike moves outside the perimeter, we'll send you a notification and you can&nbsp;track the bikes GPS in-app.&nbsp;</p>"
+            }
+          },
+          "1589461372243": {
+            "type": "question",
+            "settings": {
+              "title": "How do I track my bike?",
+              "text": "<p>Every bike is fitted with a GPS sensor, so you can always track your bike through the iOS/Android app.&nbsp;</p>"
+            }
+          },
+          "1589477896521": {
+            "type": "question",
+            "settings": {
+              "title": "How do the MOD-Nuts help?",
+              "text": "<p>The wheels can only be removed by using the special nut removal tool (included with every bike).</p>\n<p></p>\n<p>They were specifically designed&nbsp;so that wrenches or other tools can't open them - and they also look like our logo.&nbsp;</p>"
+            }
+          },
+          "1589457896171": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Shipping & Import Tax",
+              "text": "<p>We aim to ship anywhere, but can't ship everywhere.</p>\n<p></p>\n<p>If for some reason we cannot ship to your country, we&rsquo;ll let you know as soon as possible and issue you a full refund.</p>",
+              "align_text": "left"
+            }
+          },
+          "1589457997689": {
+            "type": "question",
+            "settings": {
+              "title": "How much are the shipping costs?",
+              "text": "<p>Shipping is free for our EU and US customers.</p>"
+            }
+          },
+          "1589458026304": {
+            "type": "question",
+            "settings": {
+              "title": "Are all import duties and taxes included?",
+              "text": "<p>In the EU and US, yes they are. In other countries, import duties and taxes&nbsp;may be billed directly to you by the carrier. The amount will depend on your specific country&rsquo;s import duty laws.</p>\n<p></p>\n<p>If you're unsure, just ask!&nbsp;</p>"
+            }
+          },
+          "1589478472324": {
+            "type": "rich-text",
+            "settings": {
+              "title": "All about the App",
+              "text": "<p>Work in progress</p>",
+              "align_text": "left"
+            }
+          },
+          "1589549341416": {
+            "type": "question",
+            "settings": {
+              "title": "Do I need the app to turn on the bike?",
+              "text": "<p>No, the handlebar button turns on the bike.</p>"
+            }
+          },
+          "1589478355464": {
+            "type": "question",
+            "settings": {
+              "title": "What features does the app have?",
+              "text": "<p>Features include:</p>\n<p>- GPS Tracking</p>\n<p>- History of recent trips<br>- Battery management<br>- Worldwide leaderboard</p>\n<p>- Referral dashboard&nbsp;<br>- Battery health diagnostics&nbsp;</p>"
+            }
+          },
+          "1589478427463": {
+            "type": "question",
+            "settings": {
+              "title": "When will the app be available?",
+              "text": "<p>Development is scheduled to be finished in August.</p>"
+            }
+          },
+          "1589478327795": {
+            "type": "question",
+            "settings": {
+              "title": "What's the app compatible with?",
+              "text": "<p>&nbsp;iOS and Android.</p>"
+            }
+          },
+          "1589472844974": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Quality Assurance",
+              "text": "<p>We test every bike rigorously to ensure it exceeds ISO Standards&nbsp; (4210-1:2014) by at least 20%. We put our bikes through a range of fatigue, impact, bending and force tests to guarantee they&rsquo;re tough, durable and reliable.</p>",
+              "align_text": "left"
+            }
+          },
+          "1589458187150": {
+            "type": "question",
+            "settings": {
+              "title": "How can I maintain and service the bike?",
+              "text": "<p>We've carefully selected high-quality&nbsp;components to minimize&nbsp;maintenance.</p>\n<p></p>\n<p>In addition , the bike is designed for easy self-repair with instructions provided, and we'll ship you parts as needed.</p>\n<p></p>\n<p>In the rare case you need further assistance, bring your bike to one of our service partners or send it to us.</p>"
+            }
+          },
+          "1589473723630": {
+            "type": "question",
+            "settings": {
+              "title": "What type of warranty do you offer?",
+              "text": "<p>We offer a five-year warranty for all MODMO manufactured components, such as the frame.&nbsp;The standard manufacturers warranty will apply for all third-party components, usually a one-year warranty.&nbsp;</p>"
+            }
+          },
+          "1589461070830": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Test Rides",
+              "text": "<p>Unfortunately,&nbsp;sample Saigon's are&nbsp;limited until August. After that, we'll have test rides available in many countries acorss Europe, starting with Germany.&nbsp;</p>",
+              "align_text": "left"
+            }
+          },
+          "1589458219141": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Cycle to Work Scheme",
+              "text": "<p>Yes, we offer the Cycle to Work Scheme to companies across Europe, but the rules vary between regions. If you're interested in learning more, please contact us.&nbsp;</p>",
+              "align_text": "left"
+            }
+          },
+          "1589458135952": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Road Compliance",
+              "text": "<p>Safety first! Our bikes are manufactured according to standard EN15194, and the motor comes with a CE marking. It is street-legal in all countries.&nbsp;</p>",
+              "align_text": "left"
+            }
+          }
+        },
+        "block_order": [
+          "page-faq-template-0",
+          "page-faq-template-1",
+          "page-faq-template-2",
+          "1589449380664",
+          "1589449741251",
+          "1589449791462",
+          "1589449818789",
+          "1589461206450",
+          "1589451935463",
+          "page-faq-template-3",
+          "page-faq-template-4",
+          "1589451842555",
+          "1589478078133",
+          "1589452089413",
+          "1589452132812",
+          "1589452207524",
+          "1589452342700",
+          "1589452383896",
+          "1589452398095",
+          "1589452427145",
+          "1589470907176",
+          "1589452472535",
+          "1589452567797",
+          "1589470388044",
+          "1589454775360",
+          "1589454876002",
+          "1589454895142",
+          "1589477625578",
+          "1589457778595",
+          "1589461120498",
+          "1589461350023",
+          "1589461372243",
+          "1589477896521",
+          "1589457896171",
+          "1589457997689",
+          "1589458026304",
+          "1589478472324",
+          "1589549341416",
+          "1589478355464",
+          "1589478427463",
+          "1589478327795",
+          "1589472844974",
+          "1589458187150",
+          "1589473723630",
+          "1589461070830",
+          "1589458219141",
+          "1589458135952"
+        ],
+        "settings": { "page_title_enable": true }
+      },
+      "1589091073235": {
+        "type": "newsletter",
+        "settings": {
+          "title": "Roll with Us",
+          "text": "<p>Keep up-to-date with Modmo product launches, production schedules, and much more.&nbsp;</p>"
+        }
+      },
+      "1589091427511": {
+        "type": "hero-animated",
+        "blocks": {
+          "1589091427511-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/sideview_trans-2.png",
+              "image_mobile": "",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": ["1589091427511-0"],
+        "settings": {
+          "style": "gif",
+          "title": "<span class=text-dark> INTRODUCING </span> <br>SAIGON",
+          "title_size": 67,
+          "subheading": "",
+          "link": "shopify://products/saigon",
+          "link_text": "Hop On",
+          "text_align": "vertical-top horizontal-center",
+          "desktop_size": 10,
+          "mobile_size": 0
+        }
+      },
+      "1589780338328": {
+        "type": "text-and-image",
+        "settings": {
+          "image": "shopify://shop_images/Screenshot_2020-05-03_at_13.25.22.png",
+          "image2": "shopify://shop_images/spot1.png",
+          "image_width": 700,
+          "subtitle": "",
+          "title": "Made to Move",
+          "text": "<p>Modmo makes&nbsp;zero-emission personal transport vehicles, for fast and fluent movement around cities.</p>\n<p></p>\n<p>Bicycles have traditionally been the most efficient form of transport, and this heritage is at the core of Modmo, inspiring us to innovate where we see opportunities to improve utility&nbsp;and user experience.</p>",
+          "button_label": "Our Story",
+          "button_link": "shopify://pages/about",
+          "button_style": "primary",
+          "layout": "right",
+          "alt": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1589091427511",
+      "1588491200134",
+      "1589780338328",
+      "1588490397095",
+      "1588491448788",
+      "1589091073235"
+    ]
+  },
+  "presets": {
+    "Core": {
+      "animate_images": true,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "round",
+      "button_type_style": "normal",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_banner_background_color": "#fff",
+      "checkout_body_background_color": "#fff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_use_header_image": false,
+      "color_alt_bg": "#f9f9f9",
+      "color_alt_text": "#000000",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#000000",
+      "color_button": "#000000",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#f75d44",
+      "color_cart_dot_text": "#ffffff",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_overlay_text_shadow": 20,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#000000",
+      "color_newsletter": "#000",
+      "color_newsletter_text": "#fff",
+      "color_sale_price": "#000000",
+      "color_sale_tag": "#990000",
+      "color_small_image_bg": "#ffffff",
+      "desktop_loader_width": 100,
+      "mobile_loader_width": 100,
+      "product_grid_image_size": "natural",
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_image_scatter": false,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_pinterest_link": "https://www.pinterest.com/shopify",
+      "type_base_font_family": "roboto_condensed_n4",
+      "type_base_line_height": 1.6,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_header_base_size": 46,
+      "type_header_capitalize": true,
+      "type_header_font_family": "roboto_condensed_i7",
+      "type_header_line_height": 1,
+      "type_header_spacing": "-25",
+      "type_product_capitalize": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": false,
+            "header_search_enable": true,
+            "show_announcement": false,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "menu": "footer",
+            "newsletter_title": "Join the club",
+            "newsletter_richtext": "",
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": { "per_row_desktop": 3 }
+        },
+        "product-template": { "type": "product-template", "settings": {} },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.</p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": { "layout": "right" }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {}
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1559681273277": {
+              "type": "image-hero",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-center horizontal-center"
+              }
+            },
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 450,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643392013": { "type": "map", "settings": {} },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": { "per_row": "large" }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 60,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            }
+          },
+          "block_order": [
+            "1559681273277",
+            "1558643031646",
+            "1558643392013",
+            "1558643431127",
+            "1558643225272"
+          ],
+          "settings": {
+            "page_title_enable": false,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "1543003878234": {
+          "type": "featured-collections",
+          "blocks": {
+            "1543003878234-0": { "type": "collection", "settings": {} },
+            "1543003878234-1": { "type": "collection", "settings": {} },
+            "1543003878234-2": { "type": "collection", "settings": {} },
+            "1543003878234-3": { "type": "collection", "settings": {} }
+          },
+          "block_order": [
+            "1543003878234-0",
+            "1543003878234-1",
+            "1543003878234-2",
+            "1543003878234-3"
+          ],
+          "settings": { "alt": true, "title": "Shop all" }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {}
+        },
+        "1556162802939": {
+          "type": "featured-collection",
+          "settings": {
+            "per_row_desktop": 4,
+            "per_row_mobile": "2",
+            "description": "For more traditional layouts"
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": { "description": "With infinite scrolling" }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559096311192": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559096311192-0": { "type": "image", "settings": {} },
+            "1559097202495": { "type": "image", "settings": {} }
+          },
+          "block_order": ["1559096311192-0", "1559097202495"],
+          "settings": {
+            "style": "gif",
+            "title": "Make an impression",
+            "title_size": 80,
+            "text_align": "vertical-center horizontal-center"
+          }
+        },
+        "1559098181700": {
+          "type": "slideshow",
+          "blocks": {
+            "1559098181700-0": {
+              "type": "image",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-bottom horizontal-left"
+              }
+            }
+          },
+          "block_order": ["1559098181700-0"],
+          "settings": {}
+        },
+        "1559321610782": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": { "show_product_recommendations": true }
+        },
+        "1559585995085": {
+          "type": "featured-collection-slider",
+          "settings": { "description": "With infinite scrolling" }
+        },
+        "1559586187853": {
+          "type": "marquee",
+          "settings": {
+            "text": "Follow us for monthly apparel giveaways",
+            "text_size": 36
+          }
+        },
+        "1559687247066": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_label": "Our story",
+            "button_style": "secondary",
+            "layout": "right"
+          }
+        },
+        "1559687361077": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_label": "Contact us",
+            "button_style": "secondary",
+            "layout": "left"
+          }
+        },
+        "1559687710135": { "type": "map", "settings": {} }
+      },
+      "content_for_index": [
+        "1559321610782",
+        "1559585995085",
+        "1558626745581",
+        "1559096311192",
+        "1556162914490",
+        "1559098181700",
+        "1556162802939",
+        "1543003878234",
+        "1559687247066",
+        "1559687361077",
+        "1559687710135",
+        "1559586187853"
+      ]
+    },
+    "Luxe": {
+      "animate_images": true,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "shadow",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_banner_background_color": "#fff",
+      "checkout_body_background_color": "#fff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_use_header_image": false,
+      "color_alt_bg": "#ffffff",
+      "color_alt_text": "#333029",
+      "color_announcement": "#c67066",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#fdfbfa",
+      "color_body_text": "#333029",
+      "color_button": "#c67066",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#c67066",
+      "color_drawer_background": "#fdf9f5",
+      "color_drawer_text": "#333029",
+      "color_image_bg": "#000000",
+      "color_image_overlay": "#000",
+      "color_image_overlay_opacity": 10,
+      "color_image_text": "#fff",
+      "color_large_image_bg": "#eee5e0",
+      "color_newsletter": "#c67066",
+      "color_newsletter_text": "#ffffff",
+      "color_sale_price": "#333029",
+      "color_sale_tag": "#c67066",
+      "color_small_image_bg": "#fdfbfa",
+      "desktop_loader_width": 140,
+      "mobile_loader_width": 130,
+      "product_grid_image_size": "natural",
+      "product_hover_details": true,
+      "product_hover_image": true,
+      "product_image_scatter": false,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_pinterest_link": "https://www.pinterest.com/shopify",
+      "type_base_font_family": "futura_n4",
+      "type_base_line_height": 1.7,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_header_base_size": 50,
+      "type_header_capitalize": false,
+      "type_header_font_family": "itc_novarese_n5",
+      "type_header_line_height": 1.1,
+      "type_header_spacing": "0",
+      "type_product_capitalize": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": true,
+            "show_announcement": true,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": { "per_row_desktop": 3 }
+        },
+        "product-template": { "type": "product-template", "settings": {} },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": false
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.</p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": { "layout": "right" }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {}
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 47,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": { "per_row": "small" }
+            },
+            "1558643392013": { "type": "map", "settings": {} }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643225272",
+            "1558643431127",
+            "1558643392013"
+          ],
+          "settings": { "page_title_enable": true, "page_content_enable": true }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": { "title_enable": true, "display_type": "all" }
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_style": "btn",
+            "layout": "right"
+          }
+        },
+        "1555439851826": {
+          "type": "background-image-text",
+          "settings": { "color_border": "#4f1c3a", "layout": "right" }
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1558625522348": {
+          "type": "background-image-text",
+          "settings": { "color_border": "#4f1c3a", "layout": "left" }
+        },
+        "1558626497917": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-center horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559155590855": {
+          "type": "text-columns",
+          "blocks": {
+            "1559155590855-0": {
+              "type": "text_block",
+              "settings": { "enable_image": false, "title": "Reason one" }
+            },
+            "1559155590855-1": {
+              "type": "text_block",
+              "settings": { "enable_image": false, "title": "Reason two" }
+            }
+          },
+          "block_order": ["1559155590855-0", "1559155590855-1"],
+          "settings": {
+            "title": "Why choose us?",
+            "align_text": "center",
+            "alt": true
+          }
+        },
+        "password-header": { "type": "password-header", "settings": {} },
+        "password-content": {
+          "type": "password-content",
+          "settings": {
+            "newsletter_enable": true,
+            "show_share_buttons": false,
+            "show_image": true
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "small"
+          }
+        }
+      },
+      "content_for_index": [
+        "1558626497917",
+        "1556162914490",
+        "1558626745581",
+        "1555097143929",
+        "1555439851826",
+        "1559155590855",
+        "1556162802939",
+        "1558625522348"
+      ]
+    },
+    "Hype": {
+      "animate_images": false,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "shadow",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_body_background_color": "#fff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "color_alt_bg": "#000000",
+      "color_alt_text": "#ffffff",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_cart_dot": "#FF2300",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_bg": "#000000",
+      "color_image_overlay": "#000",
+      "color_image_overlay_opacity": 10,
+      "color_image_text": "#fff",
+      "color_large_image_bg": "#000000",
+      "color_newsletter": "#000000",
+      "color_newsletter_text": "#fff",
+      "color_small_image_bg": "#f2f2f2",
+      "desktop_loader_width": 190,
+      "mobile_loader_width": 180,
+      "product_grid_image_size": "natural",
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_image_scatter": true,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_pinterest_link": "https://www.pinterest.com/shopify",
+      "type_base_font_family": "basic_commercial_n7",
+      "type_base_line_height": 1.3,
+      "type_base_size": 20,
+      "type_base_spacing": "25",
+      "type_header_base_size": 48,
+      "type_header_capitalize": true,
+      "type_header_font_family": "basic_commercial_n7",
+      "type_header_line_height": 0.9,
+      "type_header_spacing": "25",
+      "type_product_capitalize": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": true,
+            "show_announcement": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": { "show_newsletter": false }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": { "per_row_desktop": 3 }
+        },
+        "product-template": { "type": "product-template", "settings": {} },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.</p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": { "layout": "right" }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {}
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": { "per_row": "small" }
+            }
+          },
+          "block_order": ["1558643031646", "1558643431127"],
+          "settings": { "page_title_enable": true, "page_content_enable": true }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {}
+        },
+        "1555097143929": { "type": "text-and-image", "settings": {} },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1559240039950": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559240039950-0": { "type": "image", "settings": {} },
+            "1559240039950-1": { "type": "image", "settings": {} },
+            "1559309176406": { "type": "image", "settings": {} }
+          },
+          "block_order": [
+            "1559240039950-0",
+            "1559240039950-1",
+            "1559309176406"
+          ],
+          "settings": {
+            "style": "gif",
+            "title_size": 72,
+            "text_align": "vertical-bottom horizontal-right"
+          }
+        },
+        "1559241610369": {
+          "type": "marquee",
+          "settings": {
+            "text": "☞ FREE SHIPPING AND RETURNS",
+            "text_size": 70,
+            "text_spacing": true,
+            "color_scheme": "text",
+            "direction": "left"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "large"
+          }
+        },
+        "1559249041610": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-left",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        }
+      },
+      "content_for_index": [
+        "1559240039950",
+        "1555097143929",
+        "1559241610369",
+        "1556162914490",
+        "1559249041610",
+        "1556162802939"
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+
+  {%- if settings.social_twitter_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_twitter_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Twitter' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-twitter" aria-hidden="true"></i>
+        <p>@modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_facebook_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_facebook_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Facebook' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-facebook" aria-hidden="true"></i>
+        <p>/modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_pinterest_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_pinterest_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Pinterest' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-pinterest" aria-hidden="true"></i>
+        <p>@modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_instagram_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_instagram_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Instagram' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-instagram" aria-hidden="true"></i>
+        <p>/modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_snapchat_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_snapchat_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Snapchat' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-snapchat" aria-hidden="true"></i>
+        <p>@modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_tumblr_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_tumblr_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Tumblr' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-tumblr" aria-hidden="true"></i>
+        <p>@modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_youtube_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_youtube_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'YouTube' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-youtube" aria-hidden="true"></i>
+        <p>/modmo </p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_vimeo_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_vimeo_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Vimeo' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-vimeo" aria-hidden="true"></i>
+        <p>@modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_fancy_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_fancy_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'Fancy' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-fancy" aria-hidden="true"></i>
+        <p>@modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_rss_link != blank -%}
+    <li>
+      <a class="social-link-text" href="{{ settings.social_rss_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'RSS' }}" target="_blank" aria-describedby="a11y-new-window-external-message">
+        <i class="fa fa-rss" aria-hidden="true"></i>
+        <p>@modmo.io</p>
+      </a>
+    </li>
+  {%- endif -%}
+<style>
+.social-link-text {
+  display: inline-flex;
+}
+</style>
