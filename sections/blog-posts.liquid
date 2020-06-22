@@ -20,7 +20,7 @@
     {% unless blog.empty? or blog.articles.size == 0 %}
 
       <div class="grid grid--uniform">
-        {% for article in blog.articles limit: section.settings.post_limit %}
+        {% for article in blog.articles %}
           <div class="grid__item medium-up--one-third">
             {%- include 'article-grid-item',
               article: article,
@@ -33,7 +33,9 @@
           </div>
         {% endfor %}
       </div>
-
+      <button class="btn-arrow-down" id="more-news">
+        <div class="arrow-down"></div>
+      </button>
     {% else %}
 
       <div class="grid grid--uniform">

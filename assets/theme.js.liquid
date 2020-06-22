@@ -16,10 +16,55 @@ lazySizesConfig.expFactor = 4;
 
 (function($){
   var $ = jQuery = $;
+  var newsRowNum = 1;
+  
   $('#toggle-topic-btn').on('click', function () {
     $('#toggle-topic-btn').toggleClass('bg-dark');
   })
-
+  function showNewsInFirstTime() {
+    // get news div element list
+    const newsItemDivList = document.querySelectorAll(
+      ".grid .grid__item.medium-up--one-third"
+    );
+    // show 3 first item and hide rest of item
+    if (newsItemDivList && newsItemDivList.length > 3) {
+      newsItemDivList.forEach((_el, index) => {
+        if (index > 2) {
+          _el.style.display = "none";
+        }
+      });
+    } else {
+      // hide more news button if number of items less than 3
+      $("#more-news").css("display", "none"); 
+    }
+  }
+  function showMoreNews() {
+    // get news div element list
+    const newsItemDivList = document.querySelectorAll(
+      ".grid .grid__item.medium-up--one-third"
+    );
+    // show and handle more news button 
+    if (
+      newsItemDivList.length !== 0 &&
+      newsRowNum * 3 < newsItemDivList.length
+    ) {
+      newsRowNum++;
+      newsItemDivList.forEach(
+        (_el, index) => index < newsRowNum * 3 && (_el.style.display = "block")
+      );
+      console.log("newsRowNum", newsRowNum, newsItemDivList.length);
+    }
+    // Hide show more news button
+    if (newsRowNum * 3 >= newsItemDivList.length) {
+      $("#more-news").css("display", "none");
+    }
+  }
+  
+  showNewsInFirstTime();
+  $("#more-news").on("click", function () {
+    showMoreNews();
+  });
+  
   theme.utils = {
     /**
      * _.defaultTo from lodash
