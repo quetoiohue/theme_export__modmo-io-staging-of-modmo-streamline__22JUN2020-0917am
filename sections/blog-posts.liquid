@@ -7,7 +7,7 @@
     {% if section.settings.title != blank %}
       <header class="section-header" data-aos>
         <h2 class="section-header__title appear-delay">
-          {{ section.settings.title | escape }}
+          <a class="color-inherit" href="{{ blog.url }}">{{ section.settings.title | escape }}</a>
         </h2>
         {% if section.settings.view_all %}
         <div class="section-header__description small--hide rte appear-delay-1">
