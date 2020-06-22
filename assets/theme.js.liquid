@@ -16,6 +16,9 @@ lazySizesConfig.expFactor = 4;
 
 (function($){
   var $ = jQuery = $;
+  $('#toggle-topic-btn').on('click', function () {
+    $('#toggle-topic-btn').toggleClass('bg-dark');
+  })
 
   theme.utils = {
     /**
