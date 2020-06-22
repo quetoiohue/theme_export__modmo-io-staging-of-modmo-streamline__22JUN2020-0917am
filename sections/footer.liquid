@@ -36,7 +36,7 @@
   {% endif %}
 
   <div class="page-width">
-
+    {% assign currentLanguage = null%}
     {%- if show_selectors -%}
       {%- form 'localization', class: 'multi-selectors site-footer__section' -%}
         {%- if locale_selector -%}
@@ -49,6 +49,7 @@
               <button type="button" class="faux-select disclosure__toggle faux-select--mycss" aria-expanded="false" aria-controls="LangList" aria-describedby="LangHeading" data-disclosure-toggle>
                 <span class="multi-picker__label">
                   {{ form.current_locale.endonym_name }}
+                  {% assign currentLanguage = form.current_locale.endonym_name %}
                 </span>
               </button>
               <ul id="LangList" class="disclosure-list" data-disclosure-list>
@@ -113,7 +114,17 @@
       <div class="site-footer__section">
         <ul class="no-bullets inline-list site-footer__linklist">
           {% for link in linklists[section.settings.menu].links %}
-            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% if link.title == "Press Kit" %} 
+              {% if currentLanguage == "English" %} 
+                <li><a href="https://cdn.shopify.com/s/files/1/0274/3854/7059/files/Modmo_s_Press_Kit_EN.pdf?v=1592810361">{{ link.title }}</a></li>
+              {% elsif currentLanguage == "German" %}
+                <li><a href="https://cdn.shopify.com/s/files/1/0274/3854/7059/files/Modmo_s_Press_Kit_DE.pdf?v=1592882887">{{ link.title }}</a></li>
+              {% else %}
+                <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+              {% endif %}
+            {% else %}
+              <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
       </div>
