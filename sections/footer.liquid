@@ -116,11 +116,13 @@
           {% for link in linklists[section.settings.menu].links %}
             {% if link.title == "Press Kit" %} 
               {% if currentLanguage == "English" %} 
-                <li><a href="https://cdn.shopify.com/s/files/1/0274/3854/7059/files/Modmo_s_Press_Kit_EN.pdf?v=1592810361">{{ link.title }}</a></li>
+                <li><a target="_blank" href="https://cdn.shopify.com/s/files/1/0274/3854/7059/files/Modmo_s_Press_Kit_EN.pdf?v=1592810361">{{ link.title }}</a></li>
               {% elsif currentLanguage == "German" %}
-                <li><a href="https://cdn.shopify.com/s/files/1/0274/3854/7059/files/Modmo_s_Press_Kit_DE.pdf?v=1592882887">{{ link.title }}</a></li>
+                <li><a target="_blank" href="https://cdn.shopify.com/s/files/1/0274/3854/7059/files/Modmo_s_Press_Kit_DE.pdf?v=1592882887">{{ link.title }}</a></li>
+              {% elsif currentLanguage == "Deutsch" %}
+                <li><a target="_blank" href="https://cdn.shopify.com/s/files/1/0274/3854/7059/files/Modmo_s_Press_Kit_DE.pdf?v=1592882887">{{ link.title }}</a></li>
               {% else %}
-                <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+                <li><a target="_blank" href="{{ link.url }}">{{ link.title }}</a></li>
               {% endif %}
             {% else %}
               <li><a href="{{ link.url }}">{{ link.title }}</a></li>
