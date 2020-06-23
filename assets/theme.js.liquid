@@ -20,6 +20,13 @@ lazySizesConfig.expFactor = 4;
   
   $('#toggle-topic-btn').on('click', function () {
     $('#toggle-topic-btn').toggleClass('bg-dark');
+    if ($('#toggle-topic-btn').hasClass('bg-dark')) {
+      document.querySelector('#img-toggle').srcset = "https://cdn.shopify.com/s/files/1/0274/3854/7059/files/FrontBacklight-Designed.png?v=1592897574"
+      document.querySelector('#img-toggle').style.background = "black";
+    } else {
+      document.querySelector('#img-toggle').srcset = "https://cdn.shopify.com/s/files/1/0274/3854/7059/files/Front_Back_nolight_designed.png?v=1592983955";
+      document.querySelector('#img-toggle').style.background = "none";
+    }
   })
   function showNewsInFirstTime() {
     // get news div element list
