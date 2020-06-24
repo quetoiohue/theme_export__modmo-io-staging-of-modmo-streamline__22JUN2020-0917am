@@ -54,7 +54,11 @@
       margin-bottom: 1.5rem;
     }
   }
-
+  @media only screen and (max-width: 468px) {
+    .hero-animated--{{ section.id }} .hero__title.hero__title--mycss {
+      font-size: 2rem;
+    }
+  }
   .hero-animated--{{ section.id }}[data-style="fading"] .animated__slide--active {
     animation-duration: {{ slide_speed }}s;
   }
