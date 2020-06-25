@@ -34,7 +34,9 @@
     {% endif %}
   </label>
   {%- assign option_index = forloop.index -%}
-  <fieldset class="variant-input-wrap"
+  <div class="variant-input-wrap {% if option.name == "Payment Options" %}
+  {{ " product-payment-flex" }}
+  {% endif %}"
     name="{{ option.name }}"
     data-index="option{{ option_index }}"
     id="ProductSelect-{{ section_id }}-option-{{ forloop.index0 }}">
@@ -48,7 +50,7 @@
         data-index="option{{ option_index }}"
         data-value="{{ value | escape }}">
         <input type="radio"
-          {% if option.selected_value == value and product.available %} checked="checked"{% endif %}
+          {% if value == "Full payment" or option.selected_value == value and product.available %} checked="checked"{% endif %}
           value="{{ value | escape }}"
           data-index="option{{ option_index }}"
           name="{{ option.name }}"
@@ -73,5 +75,5 @@
         {% endif %}
       </div>
     {% endfor %}
-  </fieldset>
+  </div>
 </div>
