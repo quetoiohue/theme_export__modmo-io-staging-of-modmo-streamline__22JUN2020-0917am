@@ -3980,7 +3980,7 @@ lazySizesConfig.expFactor = 4;
     }
   
     function playVisibleVideo(id) {
-      if (youtubePlayers[id] && typeof youtubePlayers[id].playVideo === 'function') {
+      if (youtubePlayers[id] && typeof youtubePlayers[id].playVideo === 'function' &&id !== "YouTubeVideo-1588491200134") {
         youtubePlayers[id].playVideo();
       }
     }
@@ -4006,7 +4006,7 @@ lazySizesConfig.expFactor = 4;
           }
           break;
         case 0: // ended
-          if (videos[playerId] && videos[playerId].loop) {
+          if (videos[playerId] && videos[playerId].loop && id !== "YouTubeVideo-1588491200134" ) {
             player.playVideo();
           }
           break;
@@ -6352,16 +6352,17 @@ lazySizesConfig.expFactor = 4;
           }
           break;
         case 0: // ended
+        if (id !== "YouTubeVideo-1588491200134") {
           player.playVideo();
+        }
           break;
         case 1: // playing
           setParentAsLoaded($player);
           break;
         case 3: // buffering
+        if (id !== "YouTubeVideo-1588491200134") {
           videos[playerId].attemptedToPlay = true;
-          if (id === "YouTubeVideo-1588491200134") {
-            pauseHiddenVideo(id);
-          }
+        }
           break;
       }
     }
